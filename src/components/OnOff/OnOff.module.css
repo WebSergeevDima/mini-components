@@ -1,0 +1,36 @@
+.onOff {
+    display: flex;
+}
+
+.green {
+    width: 200px;
+    height: 100px;
+    background: grey;
+    border: 1px #fff solid;
+}
+
+.green.active {
+    background: green;
+}
+
+.red {
+    width: 200px;
+    height: 100px;
+    background: grey;
+    border: 1px #fff solid;
+}
+
+.red.active {
+    background: red;
+}
+
+.ball {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: red;
+}
+
+.ball.active {
+    background: green;
+}
