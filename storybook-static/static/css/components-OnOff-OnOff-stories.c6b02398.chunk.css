@@ -1,0 +1,39 @@
+.OnOff_onOff__VPa1Z {
+    display: flex;
+}
+
+.OnOff_green__aKMeg {
+    width: 200px;
+    height: 100px;
+    background: grey;
+    border: 1px #fff solid;
+}
+
+.OnOff_green__aKMeg.OnOff_active__sOLrF {
+    background: green;
+}
+
+.OnOff_red__sHlGo {
+    width: 200px;
+    height: 100px;
+    background: grey;
+    border: 1px #fff solid;
+}
+
+.OnOff_red__sHlGo.OnOff_active__sOLrF {
+    background: red;
+}
+
+.OnOff_ball__IOV3S {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: red;
+}
+
+.OnOff_ball__IOV3S.OnOff_active__sOLrF {
+    background: green;
+}
+
+
+/*# sourceMappingURL=components-OnOff-OnOff-stories.c6b02398.chunk.css.map*/

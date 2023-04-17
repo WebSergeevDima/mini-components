@@ -1,0 +1,39 @@
+.UnControlledOnOff_onOff__HVkhU {
+    display: flex;
+}
+
+.UnControlledOnOff_green__-zDVU {
+    width: 200px;
+    height: 100px;
+    background: grey;
+    border: 1px #fff solid;
+}
+
+.UnControlledOnOff_green__-zDVU.UnControlledOnOff_active__CjSkf {
+    background: green;
+}
+
+.UnControlledOnOff_red__VjhkF {
+    width: 200px;
+    height: 100px;
+    background: grey;
+    border: 1px #fff solid;
+}
+
+.UnControlledOnOff_red__VjhkF.UnControlledOnOff_active__CjSkf {
+    background: red;
+}
+
+.UnControlledOnOff_ball__Ewbt- {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: red;
+}
+
+.UnControlledOnOff_ball__Ewbt-.UnControlledOnOff_active__CjSkf {
+    background: green;
+}
+
+
+/*# sourceMappingURL=components-UnControlledOnOff-UnControlledOnOff-stories.dddfe1c2.chunk.css.map*/
