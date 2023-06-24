@@ -8,7 +8,7 @@ import {UnRating} from "./components/UnRating/UnRating";
 import UnControlledOnOff from "./components/UnControlledOnOff/UnControlledOnOff";
 import Select from "./components/Select/Select";
 import SelectNew from "./components/SelectNew/SelectNew";
-import styled from "styled-components";
+import Clock from "./components/Clock/Clock";
 
 function App() {
 
@@ -31,6 +31,10 @@ function App() {
 
     return (
         <div>
+
+            <Clock />
+
+            <br/>
 
             <SelectNew value={valueSelect} items={[
                 {title: 'Минск', value: '1'},
